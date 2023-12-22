@@ -8,9 +8,8 @@
 
 ## Curated List
 
-* [native.directory](https://www.native.directory/)
 * [Awesome React Native](https://www.awesome-react-native.com/)
-* [js.coach](https://js.coach/?collection=React+Native)
+
 
 ## 좋은 참고자료
 
